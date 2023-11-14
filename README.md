@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaunak012
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on Begginer Friendly projects
+- 💞️ I’m looking to collaborate on Reactjs and Nextjs projects
 - 📫 How to reach me shaunak023@gmail.com
 
 <!---
